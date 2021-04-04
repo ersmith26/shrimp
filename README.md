@@ -2,4 +2,4 @@
 
 ##Within this repository contains many shrimp secrets and perhaps stuff about squids.
 
-![redshrimp](pictures\redshrimp.jpg)
+![](https://github.com/ersmith26/shrimp/blob/master/pictures/redshrimp.jpg)
